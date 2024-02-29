@@ -5,8 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Get Started
 
 1. `git clone https://github.com/JustAnotherWebDev/code-assignment.git` to clone the app
-2. `npm install` to install all node modules
-3. `npm run start` to run the app in development mode
+2. `cd .\code-assignment\` to change directory
+3. `npm install` to install all node modules
+4. `npm run start` to run the app in development mode
 
 ## Requirements
 
